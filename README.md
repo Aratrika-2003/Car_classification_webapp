@@ -1,0 +1,1 @@
+This is a mini project that was by me and three of my friends  as a team. The project is a car classifier which can identify any variant or model related to the image given as input and give the desired information.
